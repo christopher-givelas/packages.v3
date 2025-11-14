@@ -482,4 +482,11 @@
     url="https://apexrms.github.io/wisdm/"
     location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.2.0/wisdmStsimConnector-1-2-0.ssimpkg">
   </package>
+  <package
+    name="landfirevegmodels"
+    version="2.0.0"
+    description="LANDFIRE vegetation models"
+    url="https://apexrms.github.io/landfirevegmodels/"
+    location="https://s3.us-west-2.amazonaws.com/apexrms.com.public/landfirevegmodels/testing%20for%20V2%20upgrade/landfirevegmodels.ssimpkg">
+  </package>
 </packages>
